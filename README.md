@@ -19,7 +19,7 @@ A dynamic and interactive Music Player application developed as part of the Code
 
 ## Screenshots 📸
 
-![Music Player Screenshot](Screenshots/music_home.jpg)
+![Music Player Screenshot](Screenshots/music_home.png)
 
 ## Demo 🚀
 
